@@ -20,11 +20,11 @@ If you'd like Maintainerr to communicate securely, you'll have to use your '*.pl
 | Name          | The name of your server |
 | Hostname or IP| The domain name or local IP of the host your server runs on |
 | Port          | The port Plex runs on, default is 32400 |
-| Authentication| Authenticate with your Plex server using a **admin** account |
+| Authentication| Authenticate with your Plex server using an **admin** account |
 
 
 # Overseerr
-Overseerr's configuration is required to use it's parameters in rules and to remove requests. <br />
+Overseerr's configuration is required to use its parameters in rules and to remove requests. <br />
 
 | Param        | Description           |
 | ------------- |:-------------:|
@@ -33,7 +33,7 @@ Overseerr's configuration is required to use it's parameters in rules and to rem
 | Api key| Overseerr API key, should be visible in the Overseerr settings |
 
 # Radarr
-Radarr's configuration is required to use it's parameters in rules and to remove or unmonitor movies.
+Radarr's configuration is required to use its parameters in rules and to remove or unmonitor movies.
 
 | Param        | Description           |
 | ------------- |:-------------:|
@@ -42,7 +42,7 @@ Radarr's configuration is required to use it's parameters in rules and to remove
 | Api key| Radarr API key, should be visible in the Radarr settings |
 
 # Sonarr
-Sonarr's configuration is required to use it's parameters in rules and to remove or unmonitor shows.
+Sonarr's configuration is required to use its parameters in rules and to remove or unmonitor shows.
 
 | Param        | Description           |
 | ------------- |:-------------:|
